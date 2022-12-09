@@ -1,1 +1,2 @@
- Bonjour github
+ Bonjour github!
+ Ceci est mon message d'aujourd'hui ;-)
