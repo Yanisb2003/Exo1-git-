@@ -1,0 +1,4 @@
+Bonjour Github, ceci est le 1er fichier de la 2 eme branche!
+Bonjour Exo2, ceci est message pour Branche-2!
+ok.Message reçu.
+Merci. bonne journée.
